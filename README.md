@@ -6,4 +6,4 @@ Integrantes:
 Sergio Monge Solorzano\
 Sebastian Murillo Brenes\
 Sebastian Navarro Romero\
-Joustyn Sanchez Guido\
+Joustyn Sanchez Guido
