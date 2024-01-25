@@ -2,7 +2,7 @@
 
 Grupo 08 
 Integrantes: 
-Sergio Monge Solorzano
-Sebastian Murillo Brenes
-Sebastian Navarro Romero 
-Joustyn Sanchez Guido
+Sergio Monge Solorzano\
+Sebastian Murillo Brenes\
+Sebastian Navarro Romero\
+Joustyn Sanchez Guido\
